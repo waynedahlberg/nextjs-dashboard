@@ -4,7 +4,7 @@ import Image from 'next/image';
 import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 
-import { lusitana } from './ui/fonts';
+import { lusitana } from '../fonts';
 
 export default function Page() {
   return (
